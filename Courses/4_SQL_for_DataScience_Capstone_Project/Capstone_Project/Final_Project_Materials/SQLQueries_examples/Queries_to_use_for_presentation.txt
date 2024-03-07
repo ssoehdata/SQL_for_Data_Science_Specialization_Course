@@ -1,0 +1,82 @@
+
+--- table overview
+-- SELECT *
+-- FROM athlete_events
+-- LIMIT 5;
+
+-- Total medals by type (gold, silver, bronze)
+-- SELECT Count(medal) AS bronze_medals_total
+-- FROM athlete_events
+-- WHERE medal LIKE '%Bronze';
+
+
+
+-- -- gold medals by season and event type
+-- SELECT Count(medal) AS medals_won, Team, age,season,event
+-- FROM athlete_events
+--  WHERE (medal LIKE '%Gold')
+--  AND season LIKE 'Winter' AND event LIKE 'gynmastics'
+-- GROUP BY Team,age,season, event
+-- ORDER BY count(medal) DESC
+-- ;
+
+-- --total medals by type and country
+-- SELECT team, medal, count(*)
+-- FROM athlete_events
+-- WHERE medal IS NOT NULL
+-- GROUP BY team, medal
+-- ORDER BY count(*) DESC
+-- ;
+
+
+-- --total medals by type and country and season
+-- SELECT team, medal,season,  count(*)
+-- FROM athlete_events
+-- WHERE medal IS NOT NULL AND medal LIKE 'Bronze' AND season LIKE 'Winter'
+-- GROUP BY team, medal,season
+-- ORDER BY count(*) DESC
+-- ;
+
+-- --Isolate a specific country from total medals by type and season
+-- SELECT team, medal, season,  count(*)
+-- FROM athlete_events
+-- WHERE medal IS NOT NULL AND medal LIKE 'Gold' AND season LIKE 'Summer' AND team LIKE 'Russia'
+-- GROUP BY team, medal,season
+-- ORDER BY count(*) DESC
+
+
+-- --Medal type by type , country, season, year
+
+-- SELECT medal AS total_bronze, team, season, Year
+-- FROM athlete_events
+-- WHERE (medal LIKE '%Bronze%')
+-- AND (team  LIKE 'Austria') AND season LIKE 'Winter'
+-- LIMIT 500
+-- ;
+
+
+-- -- want to find max gold medal by team and sport and season
+-- SELECT COUNT(medal) AS total_gold, sport, team, season
+-- FROM athlete_events
+-- WHERE season LIKE 'Winter' AND medal LIKE 'Gold' 
+-- GROUP BY medal, sport,team,season
+-- ORDER BY COUNT(*) DESC 
+-- ;
+
+-- --winter gold medals by event , season , team
+-- SELECT COUNT(medal) AS total_gold, team, sport, season,
+-- RANK() OVER (PARTITION BY medal ORDER BY season DESC)
+-- FROM athlete_events
+-- WHERE medal LIKE 'Gold' AND season LIKE 'Winter' AND sport LIKE 'Ice Hockey'
+-- GROUP BY medal, season, team,sport
+-- ORDER BY medal,rank() OVER (PARTITION BY sport
+-- 				ORDER BY team DESC);
+
+
+-- -- total medal by type, team and sort for all German variations
+-- SELECT COUNT(Medal) AS total_bronze, Team
+-- FROM athlete_events
+-- WHERE Team LIKE '%Germany'
+-- 	AND MEDAL LIKE '%Bronze'
+-- GROUP BY Team, Medal
+-- ORDER BY Team DESC;

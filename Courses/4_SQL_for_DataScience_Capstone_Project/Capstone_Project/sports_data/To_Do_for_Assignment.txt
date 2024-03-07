@@ -1,8 +1,0 @@
-
-1. in SQL - sort by only those with no Nulls for Medals
-2. Sort by Country and Medals (gold, bronze, silver, number, year, event, gender)
-3. Do some stats on medals and countries: 
- 	sum, avg, mean of medals won by which countries
-4. Do a linear regression on data set for part of data - see if it would have predicted outcomes for rest of data set 
-
-5. 

@@ -1,2 +1,0 @@
-Athlete Event data
-name, sex, age, height, weight,team(country) NOC (country abbrev) Games (year of olympics event), year, season, city, sport, event, medal
