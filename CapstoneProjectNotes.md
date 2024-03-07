@@ -1,5 +1,5 @@
 
-### Included in this repo:
+### Capstone Project Notes:
 
 #### <ul><li>The certificates received from completeing the SQL for Data Science Specialization Course/UCDavis/Coursera</li></ul>
 #### <ul><li>Sample (capstone) project and related files from the course</li></ul>
