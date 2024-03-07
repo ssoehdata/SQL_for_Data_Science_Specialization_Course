@@ -4,7 +4,7 @@
 #### <ul><li>The certificates received from completeing the SQL for Data Science Specialization Course/UCDavis/Coursera</li></ul>
 #### <ul><li>Sample (capstone) project and related files from the course</li></ul>
 
-###<ul>Link to live version of the final project presentation</ul>
+### <ul>Link to live version of the final project presentation</ul>
 
 https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1 
 
