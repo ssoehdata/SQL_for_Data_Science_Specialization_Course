@@ -2,7 +2,7 @@
 ### Included in this repo:
 
 #### <ul><li>The certificates received from completeing the SQL for Data Science Specialization Course/UCDavis/Coursera</li></ul>
-#### <ul><li>Sample (capstone) project from the course</li></ul>
+#### <ul><li>Sample (capstone) project and related files from the course</li></ul>
 =======
 ## SQL for Data Science Specialization Course
 
@@ -10,9 +10,3 @@
 ![image](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white) 
 
 
-
-### Included in this repo:
-
-#### <ul><li>The certificates received from completeing the SQL for Data Science Specialization Course/UCDavis/Coursera</li></ul>
-#### <ul><li>Sample (capstone) project from the course</li></ul>
->>>>>>> d9d916647c25674f22fb934ce49b12f6bd4298bc
