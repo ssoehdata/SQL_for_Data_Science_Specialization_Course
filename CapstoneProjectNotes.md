@@ -1,8 +1,8 @@
 
 ### Capstone Project Notes:
 
-#### <ul><li>The certificates received from completeing the SQL for Data Science Specialization Course/UCDavis/Coursera</li></ul>
-#### <ul><li>Sample (capstone) project and related files from the course</li></ul>
+#### <ul><li>some descriptive text here </li></ul>
+#### <ul><li>Aims etc etc </li></ul>
 
 ### <ul>Link to live version of the final project presentation</ul>
 
