@@ -1,5 +1,5 @@
 
-## Course Syllabus
+## Course 2 Syllabus
 Course 2 of 4: Data Wrangling, Analysis and AB Testing with SQL
 ##### Week 1: <ul><li>Data of Unknown Quality</li></ul>
 ##### Week 2: <ul><li>Creating Clean Datasets</li></ul>
