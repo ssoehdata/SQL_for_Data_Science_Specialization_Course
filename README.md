@@ -17,7 +17,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1
 
 
 ![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) 
-![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/jpg/DataProfSurvey.jpg)
+
 
 
 
