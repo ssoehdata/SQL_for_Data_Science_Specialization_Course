@@ -1,0 +1,17 @@
+final_assign
+---- make a tableau story for presentation
+[] title page  mention data range etc (1900-2016)
+[] contents page (incl. review of questions to answer Answer / Hypothesis / Approach
+[] Discuss Technical Challenges
+[] Detail: Entity Relationship Diagram (ERD) 
+[] Initial Findings
+[] Deeper Analysis - viz / graphs of data and findings(possibly/Probably multiple panels)
+  []  incl. "adjusted"  "Total Germany " Team category - use excel sheet initial query copy
+[] Final Findings / (Hypothesis Results)
+
+to include: 
+[] examples of SQL queries / examples  of Jupyter Notebooks w Pandas DF's etc 
+[] describe briefly cleaning steps involved
+[] etl page / tools used  Excel, Postgresql, Python(incl Pandas, Jupyter Notebook, Matplotlib and Seaborn (for "on the fly" graphs) , Scikitlearn), Tableau
+[]  viz / % medals won by team by seasonal sport events (winter / summer events)
+[] viz 

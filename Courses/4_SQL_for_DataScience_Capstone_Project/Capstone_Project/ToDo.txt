@@ -1,0 +1,12 @@
+to add: 
+	data cleaning w excel (e.g.) ....
+	created sql table (added primary key, added columns etc) 
+
+SQL query examples to include: 
+	1) total medals by type (gold, silver, bronze)
+	2) total medal by type and country
+        3) total medals by type and country and season
+	4) total medals by team, type and season   (maybe)
+	5) total medals by type,team, year, season, country (maybe)
+	6) total medals by type, event, season, year, team   - def use
+	7) all variations for Germany - medal by type, team
