@@ -1,5 +1,5 @@
 
-## Course Syllabus
+## Course 4 Syllabus
 Course 4 of 4: SQL for DataScience Capstone Project 
 ##### Week 1: <ul><li>Getting Started/Milestone 1: Project Proposal and Data Selection/Preparation</li></ul>
 ##### Week 2: <ul><li>Descriptive Stats & Understanding Your Data</li></ul>
