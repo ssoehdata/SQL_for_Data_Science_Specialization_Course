@@ -3,7 +3,7 @@
 #### <ul><li>Project Scope and Requirements</li></ul>
 #### <ul><li>Aims,Methods,Tools used, Conclussions </li></ul>
 
-##### *(link to live version of the final project presentation)*
+##### *(link to live version of the final project)*
 https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1 
 
 =======
