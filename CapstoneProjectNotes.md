@@ -1,6 +1,5 @@
 
 ### Capstone Project Notes:
-
 #### <ul><li>some descriptive text here </li></ul>
 #### <ul><li>Aims etc etc </li></ul>
 
