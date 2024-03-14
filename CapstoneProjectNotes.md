@@ -23,7 +23,7 @@
 ###### *(click to expand)*
 <details>
 <ul> Dataset is publicly available and consists of 2 separate .csv files for Olympic Events participants and Medals won from 1900 to 2016</ul>
-<ul></ul>
+<ul>Initial data set examination was performed using Pandas and Excel to look for general categories of interest, potential problems with the data etc.</ul>
   
 </details>
 
