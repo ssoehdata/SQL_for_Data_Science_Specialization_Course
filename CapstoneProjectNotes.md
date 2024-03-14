@@ -14,6 +14,9 @@
 ![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) 
 
 ##### The data set contains Olympic Events and Medals won in the Olympic Games for the period 1900 to 2016
+#### Project Aims: My aims for the project were to examine what if any relationships existed in the following:
+###### <n1>1) Demonstrate data filtering data on an individual customer and product basis.
+###### <n1>2) Enable data to be isolated and "drilled-down" on multiple levels across categories.
 
 
 
