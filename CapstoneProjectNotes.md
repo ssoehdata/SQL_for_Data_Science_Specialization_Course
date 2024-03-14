@@ -11,7 +11,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) 
+![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  
 
 ##### Project Aims:
 ######  *(click to expand)*
