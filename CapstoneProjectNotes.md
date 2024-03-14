@@ -39,8 +39,9 @@
   <ul> Some exploratory analyses were inconclusive and thus excluded in the final results (e.g. regression analysis using Scikit-Learn & Seaborn)</ul>
   <ul> These limitations were due primarily to the dataset itself, and I omitted inconsequential or trivial analyses results (e.g. athletes ages)</ul>
 </details>
+
 ##### Results 
-#### *(click to expand)
+##### *(click to expand)
 <details>
   
 </details>
