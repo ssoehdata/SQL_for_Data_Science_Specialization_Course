@@ -16,5 +16,5 @@
 ###### <n1>2) Determine if any trends appear for teams winning seasonal events from countries that naturally favour such activities due to geography and climate
 ###### <n1>3) 
 ##### Data used: Publicly available data in two .csv files for Olympic Events and Medals won from 1900 to 2016
-
+##### Data Cleaning
 
