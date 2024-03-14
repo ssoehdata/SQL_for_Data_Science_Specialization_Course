@@ -16,7 +16,7 @@
 <ul>I chose to examine what if any relationsships existed in the following:</ul>
 <ul>1) Examine any overall trends in countries and medals won for both Summer and Winter Olympic Games</ul> 
 <ul>2) Determine if any trends emerge for teams winning seasonal events for countries that favour such activities due to geography and climate</ul>
-<ul>3) Determine if any trends emerged over time for medals won, participating countries etc.</ul>
+<ul>3) Determine if any trends emerged over time for medals won, participating countries</ul>
 ##### Data used: Publicly available data in two .csv files for Olympic Events and Medals won from 1900 to 2016
 </details>
   
