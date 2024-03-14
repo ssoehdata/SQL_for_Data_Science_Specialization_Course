@@ -1,6 +1,6 @@
 
 #### Capstone Project Description and Requirements, Aims & Methods, Tools used and Conclusions 
-###### *(link to live version of the final project)*
+###### *(link to live version of the project)*
 ###### https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1 
 
 #### Tools used in this Project:
