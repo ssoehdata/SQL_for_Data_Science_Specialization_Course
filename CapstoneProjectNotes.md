@@ -40,7 +40,7 @@
   <ul> These limitations were due primarily to the dataset itself, and I omitted inconsequential or trivial analyses results (e.g. athletes ages)</ul>
 </details>
 
-##### Results 
+##### Results and Conclusions
 ##### *(click to expand)
 <details>
   
