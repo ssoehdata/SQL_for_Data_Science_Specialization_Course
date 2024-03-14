@@ -33,6 +33,6 @@
 <details>
   <ul>The main tools used in exploring the data set were SQL,and Pandas with some "on-the-fly" visualizations created using Matplotlib, and Excel</ul>
   <ul> I created the ERD for the data sets using MySQl, but performed the queries using PostgreSQL in PgAdmin</ul>
-  <ul> Some exploratory analysis led to inconclusive "dead ends" and were excluded in the final results (e.g. regression analysis using skikitlearn)</ul>
+  <ul> Some exploratory analysis led to inconclusive "dead ends" and were excluded in the final results (e.g. regression analysis using Scikit-Learn)</ul>
 </details>
 
