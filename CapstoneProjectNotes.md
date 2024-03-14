@@ -47,7 +47,7 @@
 <details>
   <ul>Overall a small number of the same countries(teams) consistently won the majority of medals</ul>
   <ul>The countries that consistently won the most awards were the USA, Great Britain and the former USSR, and Germany</ul>
-  <ul>Notable was that combining the number of medals won by former East and West Germany pushed Germany into one of the leaders for medals won</ul>
+  <ul>Notable was that by combining medals won by former East and West Germany, clarified the data that Germany was one of the leaders for medals won</ul>
   <ul>As suspected, countries that naturally support some events (e.g. Winter Sports) ranked higher in relevant events.</ul>
   <ul>One outlier for medals won, was Canada (Ice Hockey), which also supports the hypothesis for geographic / climate tendencies in seasonal event performance </ul>
 </details>
