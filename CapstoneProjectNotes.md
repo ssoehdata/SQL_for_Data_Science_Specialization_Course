@@ -38,8 +38,8 @@
   <ul> I created the ERD for the data sets using MySQl, but performed the queries using PostgreSQL in PgAdmin</ul>
   <ul> Some exploratory analyses were inconclusive and thus excluded in the final results (e.g. regression analysis using Scikit-Learn & Seaborn)</ul>
   <ul> These limitations were due primarily to the dataset itself, and I omitted inconsequential or trivial analyses results (e.g. athletes ages)</ul>
-  <ul> Individually former countries W. and E. Germany won a large number of medals, but listing them separately did not reflect Germany as a leading medal winner</ul>
-  <ul> I then examined the combined results for Germany (modern and former countries) to evaluate the number of medals won to examine those results</ul>
+  <ul> Individually former countries W. and E. Germany won a large number of events, but this was reflected overall for Germany as a leading medal winner</ul>
+  <ul> To examine the overall medals won by Germany, I also combined modern and former East and West to evaluate the number of medals won by them</ul>
 </details>
 
 ##### Results and Conclusions
