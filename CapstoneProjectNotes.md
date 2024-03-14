@@ -21,7 +21,7 @@
 </details>
   
 ##### Initial Data Cleaning Process
-##### *(click to expand data cleaning process)*
+###### *(click to expand data cleaning process)*
 <details>
   
 </details>
