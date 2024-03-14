@@ -19,6 +19,7 @@
 <n1>3) Determine if any trends emerged over time for medals won, participating countries etc.
 ##### Data used: Publicly available data in two .csv files for Olympic Events and Medals won from 1900 to 2016
 </details>
+  
 ##### Initial Data Cleaning Process
 ##### *(click to expand data cleaning process)*
 <details>
