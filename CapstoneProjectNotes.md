@@ -18,7 +18,7 @@
 <details> 
 <ul>I chose to examine what if any relationsships existed in the following:</ul>
 <ul>1) Examine any overall trends in countries and medals won for both Summer and Winter Olympic Games.</ul> 
-<ul>2) Determine if any trends emerge for teams winning seasonal events for countries that favour such activities due to geography and climate.</ul>
+<ul>2) Determine if any trends emerge for teams winning seasonal events by countries with favourable geography and climate for that event.</ul>
 <ul>3) Determine if any trends emerged over time for medals won, participating countries.</ul>
 </details>
   
