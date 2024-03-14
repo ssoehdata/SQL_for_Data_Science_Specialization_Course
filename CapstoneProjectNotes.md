@@ -27,5 +27,9 @@
 <ul>Significant data cleaning and formatting was required to prepare the data for further evaluation, examples including but not limited to:</ul> 
 <li>creating consistency in names, accounting for historical changes (e.g. East Germany, USSR etc), separating data points for better evaluation</li>
 </details>
-
+##### Data Exploration 
+##### *(click to expand)*
+<details>
+  <ul>The main tools used in exploring the data set were SQL, and Pandas with some on-the-fly visualizations created using Matplotlib, and Excel</ul>
+</details>
 
