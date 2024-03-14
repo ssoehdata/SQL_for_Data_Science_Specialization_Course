@@ -38,13 +38,15 @@
   <ul> I created the ERD for the data sets using MySQl, but performed the queries using PostgreSQL in PgAdmin</ul>
   <ul> Some exploratory analyses were inconclusive and thus excluded in the final results (e.g. regression analysis using Scikit-Learn & Seaborn)</ul>
   <ul> These limitations were due primarily to the dataset itself, and I omitted inconsequential or trivial analyses results (e.g. athletes ages)</ul>
+  <ul> Individually former countries W. and E. Germany won a large number of medals, but listing them separately did not reflect Germany as a leading medal winner</ul>
+  <ul> I then examined the combined results for Germany (modern and former countries) to evaluate the number of medals won to examine those results</ul>
 </details>
 
 ##### Results and Conclusions
 ##### *(click to expand)
 <details>
   <ul>Overall a small number of the same countries(teams) consistently won the majority of medals</ul>
-  <ul>The countries that consistently won the most awards were the USA, Great Britain and the former USSR</ul>
+  <ul>The countries that consistently won the most awards were the USA, Great Britain and the former USSR, and Germany</ul>
   <ul>Notable was that combining the number of medals won by former East and West Germany pushed Germany into one of the leaders for medals won</ul>
   <ul>As suspected, countries that naturally support some events (e.g. Winter Sports) ranked higher in relevant events.</ul>
   <ul>One outlier for medals won, was Canada (Ice Hockey), which also supports the hypothesis for geographic / climate tendencies in seasonal event performance </ul>
