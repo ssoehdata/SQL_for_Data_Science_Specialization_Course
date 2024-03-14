@@ -27,6 +27,7 @@
 <ul>Significant data cleaning and formatting was required to prepare the data for further evaluation, examples including but not limited to:</ul> 
 <li>creating consistency in names, accounting for historical changes (e.g. East Germany, USSR etc), separating data points for better evaluation</li>
 </details>
+
 ##### Data Exploration 
 ##### *(click to expand)*
 <details>
