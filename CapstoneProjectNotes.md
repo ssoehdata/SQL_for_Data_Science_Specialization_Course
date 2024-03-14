@@ -5,7 +5,6 @@
 
 ##### *(link to live version of the final project)*
 https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1 
-
 =======
 #### Tools used for the Capstone Project
 
