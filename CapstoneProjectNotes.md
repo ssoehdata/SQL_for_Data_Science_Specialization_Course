@@ -25,7 +25,7 @@
 ##### Data Set and Data Cleaning Process 
 ###### *(click to expand)*
 <details>
-<ul> Dataset is publicly available and consists of 2 separate .csv files for Olympic Events participants and Medals won from 1900 to 2016</ul>
+<ul> The dataset is publicly available and consists of 2 separate .csv files for Olympic Events participants and Medals won from 1900 to 2016</ul>
 <ul>Initial data set examination was performed with Pandas and Excel to look for general features of interest & potential problems with the data</ul>
 <ul>Significant data cleaning and formatting was required to prepare the data for further evaluation, examples including but not limited to:</ul> 
 <li>creating consistency in names, accounting for historical changes (e.g. East Germany, USSR etc), separating data points for better evaluation</li>
