@@ -10,7 +10,7 @@
 
 ![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) 
 
-##### Project Aims: I chose to examine what if any relationships existed in the following:
+##### Project Aims:
 ######  *(click to expand project aims)*
 <details> 
 <ul>I chose to examine what if any relationsships existed in the following:</ul>
