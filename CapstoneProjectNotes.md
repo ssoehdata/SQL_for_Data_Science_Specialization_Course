@@ -12,7 +12,7 @@
 ![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) 
 
 ##### Project Aims: I chose to examine what if any relationships existed in the following:
-######  *(click to expand)*
+######  *(click to expand project aims)*
 <details> 
 <n1>1) Examine any overall trends in countries and medals won for both Summer and Winter Olympic Games 
 <n1>2) Determine if any trends appear for teams winning seasonal events from countries that naturally favour such activities due to geography and climate
@@ -20,4 +20,5 @@
 ##### Data used: Publicly available data in two .csv files for Olympic Events and Medals won from 1900 to 2016
 ##### Data Cleaning 
 </details>
+
 
