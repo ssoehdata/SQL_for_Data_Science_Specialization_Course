@@ -15,6 +15,7 @@ https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1
 
 ![alt text](https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/Courses/4_SQL_for_DataScience_Capstone_Project/Capstone_Project/Final_Project_Materials/SQLQueries_examples/goldmedal_window_function.png) 
 
-##### The data set contains Olympic Events and Medals won in the Olympic Games for the period of xxxx to xxxx
+##### The data set contains Olympic Events and Medals won in the Olympic Games for the period 1900 to 2016
+
 
 
