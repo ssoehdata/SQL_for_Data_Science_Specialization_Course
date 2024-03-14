@@ -43,5 +43,7 @@
 ##### Results and Conclusions
 ##### *(click to expand)
 <details>
-  
+  <ul>Overall a small number of the same countries(teams) consistently won the majority of medals</ul>
+  <ul>The countries that consistently won the most awards were the USA, Great Britain and the former USSR</ul>
+  <ul>Notable was that combining the number of medals won by former East and West Germany pushed Germany into one of the leaders for medals won</ul>
 </details>
