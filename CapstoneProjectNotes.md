@@ -16,7 +16,7 @@
 <details> 
 <n1>1) Examine any overall trends in countries and medals won for both Summer and Winter Olympic Games 
 <n1>2) Determine if any trends appear for teams winning seasonal events from countries that naturally favour such activities due to geography and climate
-###### <n1>3) 
+<n1>3) Determine if any trends emerged over time for medals won, participating countries etc.
 ##### Data used: Publicly available data in two .csv files for Olympic Events and Medals won from 1900 to 2016
 ##### Data Cleaning 
 </details>
