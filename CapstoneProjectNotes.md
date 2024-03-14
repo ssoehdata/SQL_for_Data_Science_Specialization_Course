@@ -15,8 +15,8 @@
 
 ##### The data set contains Olympic Events and Medals won in the Olympic Games for the period 1900 to 2016
 #### Project Aims: I chose to examine what if any relationships existed in the following:
-###### <n1>1) Examine any overall trends in countries and medals won
-###### <n1>2) Determine if any relationships exist between teams winning seasonal events that naturally favour such activities due to geography
+###### <n1>1) Examine any overall trends in countries and medals won for both Summer and Winter Olympic Games 
+###### <n1>2) Determine if any trends appear for teams winning seasonal events from countries that naturally favour such activities due to geography and climate
 ###### <n1>3) 
 
 
