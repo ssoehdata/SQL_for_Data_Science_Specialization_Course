@@ -3,7 +3,7 @@
 
 #### <ul><li>The certificates received from completeing the SQL for Data Science Specialization Course/UCDavis/Coursera</li></ul>
 #### <ul><li>Sample (capstone) project and related files from the course</li></ul>
-#### <ul><li>See the  https://github.com/ssoehdata/SQL_for_Data_Science_Specialization_Course/blob/main/CapstoneProjectNotes.md   for additional information about the project. 
+#### <ul><li>See the CapstoneProjectNotes.md for additional information about the project. 
 
 ### <ul>Link to live version of the final project presentation</ul>
 
