@@ -5,7 +5,7 @@
 ##### <ul><li>Sample (capstone) project and related files from the course</li></ul>
 ##### <ul><li>See the CapstoneProjectNotes.md for additional information about the final project. 
 
-### <ul>Link to live version of the final project presentation</ul>
+### <ul>Link to live version of the final presentation</ul>
 
 https://public.tableau.com/app/profile/s.s3416/viz/Olymp_Medals_Trends/Story1 
 
